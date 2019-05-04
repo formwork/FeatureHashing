@@ -1,2 +1,4 @@
 # FeatureHashing
-Draft of vignette - introduction to FeatureHashing for NLP
+Draft of vignette - introduction to FeatureHashing
+
+[link to vignette file](sentiment_vignette.md)
